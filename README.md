@@ -5,13 +5,11 @@ This is a **personal portfolio project** developed with **HTML, CSS, JavaScript,
 ## 🖼️ Preview
 ![Portfolio Preview](/img/preview.png)
 
-- **Figma Design Preview**: [View on Figma](https://www.figma.com/design/JaZPwhLHowqTFVbd4YszVT/Portfolio-%7C-Website?node-id=0-1&t=eisq9OQGV7464NDi-1)
+**Figma Design Preview**: [View on Figma](https://www.figma.com/design/JaZPwhLHowqTFVbd4YszVT/Portfolio-%7C-Website?node-id=0-1&t=eisq9OQGV7464NDi-1)
 
 ```sh
 git clone https://github.com/deibyrayo/portfolio-website-Ansel.git
 ```
-### Figma 
-
 
 ## 🚀 Technologies Used
 - **HTML5**: Content structure
