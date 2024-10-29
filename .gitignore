@@ -1,0 +1,27 @@
+# Ignorar archivos de macOS
+.DS_Store
+
+# Ignorar archivos de node (si usas npm o tienes dependencias)
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Ignorar archivos del sistema
+Thumbs.db
+desktop.ini
+
+# Ignorar compilaciones temporales
+dist/
+build/
+
+# Ignorar logs
+*.log
+
+# Ignorar configuraciones específicas del entorno de desarrollo
+.env
+.idea/
+.vscode/
+
+# Ignorar cachés de navegadores (en caso de usar Service Workers)
+.cache/
